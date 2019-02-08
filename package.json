@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/Kaiton7/webapi#readme",
   "dependencies": {
+    "cheerio-httpcli": "^0.7.3",
     "express": "^4.16.4",
+    "libxmljs": "^0.19.5",
     "multer": "^1.4.1",
+    "python-shell": "^1.0.7",
+    "request": "^2.88.0",
     "uuid": "^3.3.2"
   }
 }
